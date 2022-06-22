@@ -1,0 +1,93 @@
+*{
+   /* border: 1px dotted;*/
+   
+}
+body{
+    background-color: lightblue;
+    margin: auto;
+   
+    
+}
+.header h1{
+    margin: auto;
+    max-width: 400px;
+    width: 100%;
+    color: black;
+
+}
+
+.wrapper{
+    max-width: 400px;
+    width: 100%;
+    background-color: lightblue;
+    margin: auto;
+    
+}
+
+.box{
+    max-width: 400px;
+    width: 100%;
+
+    background-color: white;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.titulo{
+    max-width: 390px;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    margin: auto;
+    display: flex;
+
+}
+.foto{
+    max-width: 390px;
+    width: 100%;
+    max-height: 280px;
+    height: 100%;
+    background-color: white;
+    margin: auto;
+
+}
+
+.descripcion{
+    max-width: 390px;
+    width: 100%;
+    background-color: white;
+    margin: auto;
+
+}
+.descripcion p{
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 10px
+}
+
+.name{
+    width: 300px;
+    max-width: 300px;
+    
+}
+.date{
+    position: relative;
+    margin-left: 40px;
+
+}
+h5{
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+img{
+
+    height: 280px;
+    width: 100%;
+    object-fit: cover;
+}
+
+
